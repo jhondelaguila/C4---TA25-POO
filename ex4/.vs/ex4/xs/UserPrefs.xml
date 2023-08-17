@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{A7DDD8D6-B211-4C58-911A-58D02E0165D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PruebaPersona.cs">
+    <Files>
+      <File FileName="Persona.cs" Line="12" Column="32" />
+      <File FileName="PruebaPersona.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex4" expanded="True">
+            <Node name="ex4" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ex4 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ex4 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
