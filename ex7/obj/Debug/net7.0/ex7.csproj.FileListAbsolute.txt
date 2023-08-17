@@ -1,0 +1,15 @@
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/bin/Debug/net7.0/ex7
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/bin/Debug/net7.0/ex7.deps.json
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/bin/Debug/net7.0/ex7.runtimeconfig.json
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/bin/Debug/net7.0/ex7.dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/bin/Debug/net7.0/ex7.pdb
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/ex7.csproj.AssemblyReference.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/ex7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/ex7.AssemblyInfoInputs.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/ex7.AssemblyInfo.cs
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/ex7.csproj.CoreCompileInputs.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/ex7.dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/refint/ex7.dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/ex7.pdb
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/ex7.genruntimeconfig.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C4---TA25-POO/ex7/obj/Debug/net7.0/ref/ex7.dll
